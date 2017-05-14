@@ -70,7 +70,9 @@
         "whatsapp":"",
         "email":"yklal95@gmail.com",
         "github":"https://github.com/ykl7",
+        "username" : "ykl7",
         "domain":"NLP, ML, iOS, Flask",
+        "picture" : "",
         "languages":"Python, Objective-C"
     },
     {
@@ -79,7 +81,9 @@
         "whatsapp":"",
         "email":"utkarsh.k05@gmail.com",
         "github":"https://github.com/utkarsh5k",
+        "username" : "utkarsh5k",
         "domain":"ML",
+        "picture" : "",
         "languages":"C, C++, Java, Python"
     },
     {
@@ -88,7 +92,9 @@
         "whatsapp":"9445069658",
         "email":"sundersudarshan@gmail.com",
         "github":"https://github.com/sudarshansunder",
+        "username" : "sudarshansunder",
         "domain":"Android, Backend stuff, ML",
+        "picture" : "",
         "languages":"C/C++, Java, JavaScript, Python, PHP"
     },
     {
@@ -97,7 +103,9 @@
         "whatsapp":"",
         "email":"bhargav.karanam@gmail.com",
         "github":"https://github.com/bhargavkaranam",
+        "username" : "bhargavkaranam",
         "domain":"WebDev",
+        "picture" : "",
         "languages":"Node.JS, PHP, React JS"
     },
     {
@@ -106,7 +114,9 @@
         "whatsapp":"",
         "email":"avikantsainidbz@gmail.com",
         "github":"https://github.com/avikantz",
+        "username" : "avikantz",
         "domain":"iOS, UI/UX, Graphics, Memes",
+        "picture" : "",
         "languages":"Swift, Objective C, Python"
     },
     {
@@ -115,7 +125,9 @@
         "whatsapp":"",
         "email":"aditya.s.walvekar@gmail.com",
         "github":"https://github.com/adwalvekar",
+        "username" : "adwalvekar",
         "domain":"Web development, Neural Networks",
+        "picture" : "",
         "languages":"Python, PHP, Java, C, JavaScript"
     },
     {
@@ -124,7 +136,9 @@
         "whatsapp":"",
         "email":"shivang.bharadwaj3@gmail.com",
         "github":"https://github.com/reficul31",
+        "username" : "reficul31",
         "domain":"WebDev",
+        "picture" : "",
         "languages":"JavaScript, Python"
     },
     {
@@ -133,7 +147,9 @@
         "whatsapp":"9901693769",
         "email":"mehul.guptagm@gmail.com",
         "github":"https://github.com/therealssj",
+        "username" : "therealssj",
         "domain":"WebDev",
+        "picture" : "",
         "languages":"PHP, Python"
     },
     {
@@ -142,7 +158,9 @@
         "whatsapp":"",
         "email":"aawaazdo@kartikarora.me",
         "github":"https://github.com/kartikarora",
+        "username":"kartikarora",
         "domain":"Android, Full Stack Dev",
+        "picture" : "",
         "languages":"Java, XML, Python, C, C++"
     },
     {
@@ -150,8 +168,10 @@
         "mobile":"7026827800 ",
         "whatsapp":"",
         "email":"https://raamish.malik@gmail.com ",
+        "username":"raamish",
         "github":"github.com/raamish",
         "domain":"Backend(Python) , ML",
+        "picture" : "",
         "languages":"C, C++, Python"
     },
     {
@@ -161,6 +181,8 @@
         "email":"sid.kothiyal27@gmail.com",
         "github":"https://github.com/sidkothiyal",
         "domain":"Android, Python Applications, ROS, Machine Learning ",
+        "username":"sidkothiyal",
+        "picture" : "",
         "languages":"Python, C, C++, Java, XML"
     },
     {
@@ -169,7 +191,9 @@
         "whatsapp":"7019953464",
         "email":"arora.ujjwal@gmail.com",
         "github":"https://www.github.com/azwreith",
+        "username":"azwreith",
         "domain":"WebDev, Android",
+        "picture" : "",
         "languages":"JavaScript, PHP, Python, Java"
     },
     {
@@ -178,7 +202,9 @@
         "whatsapp":"09916324321",
         "email":"arjun.narayan46@gmail.com",
         "github":"https://github.com/TacticalGoat",
+        "username":"TacticalGoat",
         "domain":"Web, App",
+        "picture" : "",
         "languages":"Python C# C++"
     },
     {
@@ -187,7 +213,9 @@
         "whatsapp":"",
         "email":"chinmayn96@gmail.com",
         "github":"https://github.com/chinmay-n",
+        "username":"chinmay-n",
         "domain":"Linux",
+        "picture" : "",
         "languages":"Python,C"
     },
     {
@@ -196,8 +224,10 @@
         "whatsapp":"9449987703",
         "email":"sukritipaul05@gmail.com",
         "github":"https://github.com/JuOllie",
+        "username":"JuOllie",
+        "picture" : "",
         "domain":"  Image Processing, Computer Vision,Data Mining and Data Science, ML and PR, Android Dev, Tesseract,RHEL6.",
-        "languages":" C,C++,C#,Java, Python,R,Ruby, MATLAB (software). (Training the The OCR requires knowledge of shell scripting, and that doesn't really fall under a programming language;mentioned it nevertheless )."
+        "languages":" C,C++,C#,Java, Python,R,Ruby, MATLAB (software)."
     },
     {
         "name":"Ishan Handa",
@@ -205,7 +235,9 @@
         "whatsapp":"",
         "email":"ishanhanda1@gmail.com",
         "github":"https://github.com/ishaaann/",
+        "username":"ishaaann",
         "domain":"BackEnd , ML and Data Science",
+        "picture" : "",
         "languages":"Python, C, C#, SQL, (Little Little) Javascript, R"
     },
     {
@@ -214,7 +246,9 @@
         "whatsapp":"",
         "email":"jiteshjha96@gmail.com",
         "github":"https://github.com/jiteshjha",
+        "username":"jiteshjha",
         "domain":"WebDev, ML, Simulations",
+        "picture" : "",
         "languages":"Javascript, Ruby, Python, C"
     },
     {
@@ -223,7 +257,9 @@
         "whatsapp":"",
         "email":"sakethkaparthi@gmail.com",
         "github":"https://github.com/sakethkaparthi",
+        "username":"sakethkaparthi",
         "domain":"Android, Google cardboard VR",
+        "picture" : "",
         "languages":"Java, python"
     },
     {
@@ -232,7 +268,9 @@
         "whatsapp":"",
         "email":"bhattpunit96@gmail.com",
         "github":"https://github.com/punitbhatt",
+        "username":"punitbhatt",
         "domain":"ML, neural network, Android",
+        "picture" : "",
         "languages":"Python, C++, Java"
     },
     {
@@ -241,6 +279,8 @@
         "whatsapp":"3125932465",
         "email":"manky.bansal@gmail.com",
         "github":"https://github.com/mankybansal",
+        "picture" : "",
+        "username":"man",
         "domain":"WebDev, Android",
         "languages":"Java, PHP, C++, C, HTML, JS, CSS"
     }
@@ -421,7 +461,7 @@
     {
         "name":"Sukriti Paul",
         "title1":"Analysis of Log files and box files of the Tesseract OCR for Indic scripts and an API for Indic-Script Character Recognition",
-        "idea1":"Optical Character Recognition plays a vital role in fields like pattern recognition,text mining, computer vision and text to speech analysis-to name a few. While training Tesseract 3.03-3.05 (OCR) for Indic scripts, there are ambiguities regarding a few factors,as stated below:<br><br>1.Number of training files to be considered<br><br>2.Should the numeral training files be separate?<br><br>3.Although there is a limit of 64 font files for these versions, is it better to mix different fonts for  a script, within the same training file?<br><br>4.Will modifying the dictionary help in case of special characters?Problem Statement : The aim is to infer the most optimal and generalised strategy  to train the OCR by using log and box files and to build on it by making an API for recognition of such fonts(obtaining their UNICHAR values in .txt).This could be further used in a spelling corrector, transliteration or translation system or for learning new languages.<br><br>(Owing to the lack of comparative analysis of results obtained on  training the tesseract for Indic scripts, we will be considering pre-processed images or scene text of two such contrasting scripts.Any number of fonts under the two scripts can be used).<br><br>Pre-requisites:The student should have a basic knowledge of the Tesseract OCR,Python(Flask) and should be well versed with data retrieval, cleaning and visualisation using R.",
+        "idea1":"Optical Character Recognition plays a vital role in fields like pattern recognition,text mining, computer vision and text to speech analysis-to name a few. While training Tesseract 3.03-3.05 (OCR) for Indic scripts, there are ambiguities regarding a few factors,as stated below:<br><br>1.Number of training files to be considered<br><br>2.Should the numeral training files be separate?<br><br>3.Although there is a limit of 64 font files for these versions, is it better to mix different fonts for  a script, within the same training file?<br><br>4.Will modifying the dictionary help in case of special characters?<br>Problem Statement : The aim is to infer the most optimal and generalised strategy  to train the OCR by using log and box files and to build on it by making an API for recognition of such fonts(obtaining their UNICHAR values in .txt).This could be further used in a spelling corrector, transliteration or translation system or for learning new languages.<br><br>(Owing to the lack of comparative analysis of results obtained on  training the tesseract for Indic scripts, we will be considering pre-processed images or scene text of two such contrasting scripts.Any number of fonts under the two scripts can be used).<br><br>Pre-requisites:The student should have a basic knowledge of the Tesseract OCR,Python(Flask) and should be well versed with data retrieval, cleaning and visualisation using R.",
         "title2":"Bio-Medical Android App based on Image Analysis of X-ray Images",
         "idea2":"Although there exist extensive image processing techniques to analyse X-ray images using MATLAB,Octave,OpenCV or Scikit-Image ,this is aimed at analysing X-ray images almost instantaneously and simplistically, where the target user (doctor/patient) need not have extensive prior knowledge of image processing techniques.From a layman’s perspective, fractures,cracks ,cavities etc are easily viewable when the image is thresholded after de-noising it. The app certainly provides a platform for a lot of future work and can be extended to RGB or BGR images.<br><br>Problem statement:<br><br>a) To develop a robust algorithm comprising a segmented, thresholded and edge detected clear image, based on the parameters given by the user.The image samples need to be pre- processed (de-noised and enhanced)<br><br>b)To implement the algorithm on an Android platform display the results (final image).<br><br>Pre-requisites:The student should have a basic knowledge of Android Application Development, basic Image Processing concepts and their implementation via either OpenCV,MATLAB or Scikit-Image.",
         "title3":"",
@@ -455,8 +495,15 @@ else
 });
 
  $.each(mentors,function(k,v){
-
-    $(".mentorsHolder").append('<div class="col-md-3 col-lg-3 col-sm-11 col-xs-11"> <div class="card"> <img class="card-img-top" src="http://rhythmanalysis.net/style/images/user-placeholder.jpg" width="auto" height="200" alt="Mentor Image"> <div class="card-block"> <h4 class="card-title text-muted">' + v.name + '</h4> <p class="card-text text-muted"><button data-name="' + v.name + '" class="btn btn-default btn-xl sr-button btn-projects">View Projects</button></p><p class="card-text"><small class="text-muted"><a target="_blank" href="' + v.github + '"><i class="fa fa-github fa-2x"></i></a><a target="_blank" href="tel:' + v.mobile + '"><i class="fa fa-phone fa-2x"></i></a><a target="_blank" href="mailto:' + v.email + '"><i class="fa fa-envelope fa-2x"></i></a></small></p></div></div></div>');
+    var gitUsername = v.username;
+    $.ajax({
+        url : 'https://api.github.com/users/' + gitUsername,
+        dataType : 'json',
+        success : function(data) {
+            $(".mentorsHolder").append('<div class="col-md-3 col-lg-3 col-sm-11 col-xs-11"> <div class="card"> <div class="card-img-top" style="background:url(' + data.avatar_url + ');background-size:cover;background-position:center center;width:100%;height:200px;"></div> <div class="card-block"> <h4 class="card-title text-muted">' + v.name + '</h4> <p class="card-text text-muted"><button data-name="' + v.name + '" class="btn btn-default btn-xl sr-button btn-projects">View Projects</button></p><p class="card-text"><small class="text-muted"><a target="_blank" href="' + v.github + '"><i class="fa fa-github fa-2x"></i></a><a target="_blank" href="tel:' + v.mobile + '"><i class="fa fa-phone fa-2x"></i></a><a target="_blank" href="mailto:' + v.email + '"><i class="fa fa-envelope fa-2x"></i></a></small></p></div></div></div>');            
+        }
+    })
+    
 });
 
 
