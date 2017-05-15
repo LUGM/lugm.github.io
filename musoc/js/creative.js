@@ -270,7 +270,7 @@
         "whatsapp":"8758032639",
         "email":"uvrushank21@gmail.com",
         "github":"https://github.com/vrush03",
-        "image": "https://avatars2.githubusercontent.com/u/12834184",
+        "image": "https://avatars0.githubusercontent.com/u/12833721",
         "domain":"ML, Algorithms, Backend",
         "languages":"C, C++, Python, Java, Go"
     }
