@@ -263,6 +263,16 @@
         "image": "https://avatars2.githubusercontent.com/u/12834184",
         "domain":"WebDev, Android",
         "languages":"Java, PHP, C++, C, HTML, JS, CSS"
+    },
+    {
+        "name":"Vrushank Upadhyay",
+        "mobile":"9663595184",
+        "whatsapp":"8758032639",
+        "email":"uvrushank21@gmail.com",
+        "github":"https://github.com/vrush03",
+        "image": "https://avatars2.githubusercontent.com/u/12834184",
+        "domain":"ML, Algorithms, Backend",
+        "languages":"C, C++, Python, Java, Go"
     }
 ];
 
@@ -351,7 +361,7 @@
     {
         "name":"Yash Kumar Lal",
         "title1":"Simple Natural Language Processing techniques",
-        "idea1":"Native implementation and evaluation of PoS tagging, language modeling and representation. Baselining of each algorithm and testing to be included. Further algorithms and approaches can be covered if time permits (leeway for students).",
+        "idea1":"Native implementation and evaluation of Part of Speech tagging, language modeling and representation. Baselining of each algorithm and testing to be included. Further algorithms and approaches can be covered if time permits (leeway for students). This is a good project for people looking to start (or solidify) NLP.",
         "title2":"Backend for Samaritan smart system",
         "idea2":"https://github.com/avikantz/Samaritan was designed to be a semi-intelligent system based on Samaritan from Person of Interest. Python implementation of context recognition from available query in the backend. Students can also come up with other ideas that the system would benefit from.",
         "title3":"",
@@ -446,6 +456,15 @@
         "idea2":"Although there exist extensive image processing techniques to analyse X-ray images using MATLAB,Octave,OpenCV or Scikit-Image ,this is aimed at analysing X-ray images almost instantaneously and simplistically, where the target user (doctor/patient) need not have extensive prior knowledge of image processing techniques.From a layman’s perspective, fractures,cracks ,cavities etc are easily viewable when the image is thresholded after de-noising it. The app certainly provides a platform for a lot of future work and can be extended to RGB or BGR images.<br><br>Problem statement:<br><br>a) To develop a robust algorithm comprising a segmented, thresholded and edge detected clear image, based on the parameters given by the user.The image samples need to be pre- processed (de-noised and enhanced)<br><br>b)To implement the algorithm on an Android platform display the results (final image).<br><br>Pre-requisites:The student should have a basic knowledge of Android Application Development, basic Image Processing concepts and their implementation via either OpenCV,MATLAB or Scikit-Image.",
         "title3":"",
         "idea3":""
+    },
+    {
+        "name":"Vrushank Upadhyay",
+        "title1":"Visualization of popular algorithms in Python using NetworkX Graph library",
+        "idea1":"The primary aim of the project will be to implement basic algorithms starting from Depth first search, Breadth first search to Advanced algorithms which are NP-Hard such as Travelling Salesman Problem, etc. The Mentees will be given the documentation of the algorithm and the task would be to use NetworkX library and visualize the output. The NetworkX library is fairly easy to use. It has a lot of built in potential which we can use to automate our work.  Basic python knowledge would be sufficient for this project. Here are some easy examples on using NetworkX library: https://networkx.github.io/examples.html",
+        "title2":"Remote Screen Control",
+        "idea2":"Remote Screen Control let's you control Linux systems remotely, in a easy and fast way over local area networks (basically a Team Viewer clone). While doing this you'll have to work on various different components like key logger, using sockets to transfer images, file transfers, live video and voice chat etc. The biggest challenge when it comes to this problem is to reduce the lag of videos over the internet. ",
+        "title3":"",
+        "idea3":""
     }
 ];
 
@@ -476,6 +495,6 @@ else
 
  $.each(mentors,function(k,v){
 
-    $(".mentorsHolder").append('<div class="col-md-3 col-lg-3 col-sm-11 col-xs-11"> <div class="card"> <div class="card-img-top" style="background:url(' + v.image + ');background-size:cover;background-position:center center;width:100%;height:200px;"></div> <div class="card-block"> <h4 class="card-title text-muted">' + v.name + '</h4> <p class="card-text text-muted"><p class="text-muted card-text text-left">Domain: '+ v.domain+ '<br>Languages: '+ v.languages +'</p><button data-name="' + v.name + '" class="btn btn-default btn-xl sr-button btn-projects">View Projects</button></p><p class="card-text"><small class="text-muted"><a target="_blank" href="' + v.github + '"><i class="fa fa-github fa-2x"></i></a><a target="_blank" href="tel:' + v.mobile + '"><i class="fa fa-phone fa-2x"></i></a><a target="_blank" href="mailto:' + v.email + '"><i class="fa fa-envelope fa-2x"></i></a></small></p></div></div></div>');
+    $(".mentorsHolder").append('<div class="col-md-4 col-lg-4 col-sm-11 col-xs-11"> <div class="card"> <div class="card-img-top"><div style="background:url(' + v.image + ');background-size:cover;background-repeat:no-repeat;background-position:center center;width:100%;height:100%;"></div></div> <div class="card-block"> <h4 class="card-title text-muted">' + v.name + '</h4> <p class="text-muted card-text text-left">Domain: '+ v.domain+ '<br>Languages: '+ v.languages +'</p><button data-name="' + v.name + '" class="btn btn-default btn-xl sr-button btn-projects">View Projects</button></p><p class="card-text"><small class="text-muted"><a target="_blank" href="' + v.github + '"><i class="fa fa-github fa-2x"></i></a><a target="_blank" href="tel:' + v.mobile + '"><i class="fa fa-phone fa-2x"></i></a><a target="_blank" href="mailto:' + v.email + '"><i class="fa fa-envelope fa-2x"></i></a></small></p></div></div></div>');
 });
 })(jQuery); // End of use strict
