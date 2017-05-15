@@ -168,6 +168,7 @@ aside {
   text-align: justify;
   word-break: break-word;
   color:#212121;
+  
 }
 
 
@@ -244,6 +245,13 @@ aside {
   margin-top: 15px;
   margin-bottom: 25px;
   height: 100px;
+
+}
+
+.sidenav .card-text
+{
+  height: auto;
+  padding-bottom: 30px;
 }
 
 .card i
