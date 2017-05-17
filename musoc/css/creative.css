@@ -82,11 +82,17 @@ aside {
   margin-bottom: 20px;
 }
 
+.registerButton
+{
+  position: relative;
+  top:10px;
+}
+
 .logo-holder
 {
   width: 300px;
-  height: 100px;
-  background: url('../img/logo.png');
+  height: 290px;
+  background: url('../img/white-logo.png');
   background-size: 90%;
   background-repeat: no-repeat;
   background-position: center center;
