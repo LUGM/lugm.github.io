@@ -97,6 +97,7 @@ aside {
   background: #FFF;
   transition: background-color .3s ease;
   height: inherit;
+  padding: 0; 
 }
 .menteeOther h3
 {

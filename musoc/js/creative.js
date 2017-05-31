@@ -477,7 +477,7 @@
     },
     {
 
-        "name": "Rachit jain",
+        "name": "Rachit Jain",
         "project": "Backend for Samaritan smart system",
         "mentor": "Yash Kumar lal",
         "link": "http://bit.ly/2rK6ANh"
@@ -533,7 +533,7 @@
     },
     {
 
-        "name": "swati kanwal",
+        "name": "Swati Kanwal",
         "project": "Chrome Extension For Blocking Unwanted Content",
         "mentor": "Raamish Malik and Ishan Handa",
         "link": "https://docs.google.com/document/d/1pZwUJqnu9MTX3fQxQ0jaXdWGicNFvPE3cOnlinJrGiU/edit"
@@ -595,7 +595,7 @@
 
     $.each(mentees,function(k,v){
 
-        $("#mentees").append('<div class="row menteeCard"> <div class="col-md-5 col-lg-5 col-sm-12 col-xs-12 menteeDetails"><h2 class="menteeName">' + v.name + ' </h2><div class="mentorDetails"><h4>MENTOR</h4><h3 class="mentorName">' + v.mentor + '</h3></div></div><div class="col-md-7 col-lg-7 col-sm-12 col-xs-12 menteeOther"><h3>' + v.project + '</h3><center><a target="_blank" class="btn btn-primary" href="' + v.link + '">View Proposal</a></center></div></div>');
+        $(".selectedHolder").append('<div class="row menteeCard"> <div class="col-md-5 col-lg-5 col-sm-12 col-xs-12 menteeDetails"><h2 class="menteeName">' + v.name + ' </h2><div class="mentorDetails"><h4 style="color: #FFFFFF;">MENTOR</h4><h3 class="mentorName">' + v.mentor + '</h3></div></div><div class="col-md-7 col-lg-7 col-sm-12 col-xs-12 menteeOther"><h3 class="text-muted">' + v.project + '</h3><center><a target="_blank" class="btn btn-primary" href="' + v.link + '">View Proposal</a></center></div></div>');
     });
 
 })(jQuery); // End of use strict
