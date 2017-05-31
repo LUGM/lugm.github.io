@@ -558,6 +558,13 @@
         "project": "Remote Screen Control(Android)",
         "mentor": "Siddharth Kothiyal",
         "link": "https://drive.google.com/open?id=0B2bHKb5jBwYvSHFNUG0wQzlMVEU"
+    },
+    {
+
+        "name": "Akash Kalra",
+        "project": "Money Genie",
+        "mentor": "Mayank Bansal",
+        "link": "https://docs.google.com/document/d/1p7BSP2WK96E702OltZUNJ3jhw00OKcrinOIPIaMgjVo/edit?usp=sharing"
     }
     ];
 
