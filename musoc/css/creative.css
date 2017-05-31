@@ -88,6 +88,60 @@ aside {
   top:10px;
 }
 
+#mentees
+{
+  background: #afbdc4;
+}
+.menteeOther
+{
+  background: #FFF;
+  transition: background-color .3s ease;
+  height: inherit;
+}
+.menteeOther h3
+{
+  font-size: 21px;
+  text-align: center;
+}
+.menteeOther .btn
+{
+  position: relative;
+  top:55px;
+}
+.menteeCard
+{
+  height: 200px;
+  margin-bottom: 15px;
+}
+.menteeName
+{
+  margin-bottom: 50px;
+}
+.mentorDetails
+{
+  
+}
+.menteeDetails
+{
+  background: #E27B35;
+  text-align: right;
+  color: #FFF;
+  font-weight: 500;
+  height: inherit;
+}
+.menteeDetails h3
+{
+  font-size: 18px;
+}
+.mentorDetails h4
+{
+  color:#e6b9b9;
+}
+.mentorName
+{
+  position: relative;
+  bottom: 10px;
+}
 .logo-holder
 {
   width: 300px;
@@ -97,6 +151,9 @@ aside {
   background-repeat: no-repeat;
   background-position: center center;
 }
+
+
+
 
 .guidelinesList
 {
@@ -214,6 +271,7 @@ aside {
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
+   
 }
 
 /*SIDENAV*/
@@ -477,6 +535,7 @@ aside {
 }
 
 @media (min-width: 576px) {
+    
     .card-deck {
         display: -webkit-box;
         display: -webkit-flex;

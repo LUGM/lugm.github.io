@@ -274,9 +274,9 @@
         "domain":"ML, Algorithms, Backend",
         "languages":"C, C++, Python, Java, Go"
     }
-];
+    ];
 
- var projectIdeas = [
+    var projectIdeas = [
     {
         "name":"Utkarsh Kashyap",
         "title1":"Simple ML library from scratch",
@@ -466,35 +466,136 @@
         "title3":"",
         "idea3":""
     }
-];
+    ];
+
+    var mentees = [
+    {
+        "name": "Abhishree Shetty",
+        "project": "Visualization of popular algorithms in Python using NetworkX Graph library",
+        "mentor": "Vrushank Upadhyay",
+        "link": "https://goo.gl/yyr3ym"
+    },
+    {
+
+        "name": "Rachit jain",
+        "project": "Backend for Samaritan smart system",
+        "mentor": "Yash Kumar lal",
+        "link": "http://bit.ly/2rK6ANh"
+    },
+    {
+
+        "name": "Sanidhya Sinha",
+        "project": "Document fingerprinting",
+        "mentor": "Ishan Handa",
+        "link": "https://docs.google.com/document/d/1pbUT8pyciRweqLeB6asBCFXfbrJU1DXdv7fTJT1Aas4/edit?usp=drivesdk"
+    },
+    {
+
+        "name": "Paras Sood",
+        "project": "A Biomedical Android App based on Image Analysis of X-ray Images",
+        "mentor": "Sukriti Paul",
+        "link": "https://docs.google.com/document/d/1RMHVVh3F9gnmb0SPVRpS66MGhxSibxJg2bkZuO0BZvE/edit?usp=sharing"
+    },
+    {
+
+        "name": "Divyanshu Singh",
+        "project": "Facebook Bot for DigitalOcean Server Management",
+        "mentor": "Bhargav Karanam",
+        "link": "https://docs.google.com/document/d/1PmxsJL5gHUCu7in4pPpKA6kAz_hM1hANkdaA1Df5muM/edit?usp=sharing"
+    },
+    {
+
+        "name": "Harshit Raghuvanshi",
+        "project": "MIT Linux",
+        "mentor": "Chinmay Nivsarkar",
+        "link": "https://docs.google.com/document/d/1i7rDEbEaGW6Anq-1DdkMm_OfNcfx-Udb7cI4beLvMLQ/edit?usp=sharing"
+    },
+    {
+
+        "name": "Yashika Badaya",
+        "project": "Braille OCR using Python",
+        "mentor": "Sudarshan Sundar",
+        "link": "https://drive.google.com/file/d/0B6RSEI9ImyRMVlRPOFB2aXJqX1E/view?usp=sharing"
+    },
+    {
+
+        "name": "Ayushi Raj Bhatt",
+        "project": "Tesseract OCR",
+        "mentor": "Sukriti Paul",
+        "link": "https://docs.google.com/document/d/1CCIEFR-H_zCkk0slsYU1TEY9UCj5lvJQfIh5fCTvwkA/edit?usp=sharing"
+    },
+    {
+
+        "name": "Nitanshu Vashistha",
+        "project": "CLI for ReadTheDocs",
+        "mentor": "Mehul Gupta",
+        "link": "https://docs.google.com/document/d/1JTl962wgnykGePGpKrmfWpdedERM1SE2iAPHeh36zOM/edit?usp=sharing"
+    },
+    {
+
+        "name": "swati kanwal",
+        "project": "Chrome Extension For Blocking Unwanted Content",
+        "mentor": "Raamish Malik and Ishan Handa",
+        "link": "https://docs.google.com/document/d/1pZwUJqnu9MTX3fQxQ0jaXdWGicNFvPE3cOnlinJrGiU/edit"
+    },
+    {
+
+        "name": "Manya Gupta",
+        "project": "Location based silent app",
+        "mentor": "Saketh Kaparthi",
+        "link": "https://drive.google.com/file/d/0Bzp-tN5uQGbbTmh1empWX2hzbU0/view?usp=sharing"
+    },
+    {
+
+        "name": "Vishnu Asutosh Dasu",
+        "project": "Simple Natural Processing Techniques",
+        "mentor": "Yash Kumar Lal",
+        "link": "https://docs.google.com/document/d/1e-pGr24MZl8IsilbZySsm8UfBAANAxhUmQFtFEH541g/edit#"
+    },
+    {
+
+        "name": "Sameer Soin",
+        "project": "Remote Screen Control(Android)",
+        "mentor": "Siddharth Kothiyal",
+        "link": "https://drive.google.com/open?id=0B2bHKb5jBwYvSHFNUG0wQzlMVEU"
+    }
+    ];
+
+
+    $(document).on("click",".btn-projects",function(){
+        $("body").css('overflow-y','hidden');
+        var name = $(this).data("name");
+        var pDetails = JSON.search(projectIdeas,'//*[name="' + name + '"]');
+        var mDetails = JSON.search(mentors,'//*[name="' + name + '"]');
+        $(".sidenav-details").empty();
+        if(pDetails[0].title3 == "")
+            $(".sidenav-details").append('<h2 class="section-heading text-center">' + name + '</h2> <div class="row">&nbsp;</div><h4>Domain:</h4><span>' + mDetails[0].domain + ' </span><h4>Languages:</h4><span>' + mDetails[0].languages + ' </span><div class="row">&nbsp;</div><div class="row"> <div class="col-md-10 col-md-offset-1"> <div style="height:auto;" class="card"> <div class="card-block"> <h3 class="card-title">' + pDetails[0].title1 + '</h3> <p class="card-text">' + pDetails[0].idea1 + '</p></div></div></div></div><div class="row"> <div class="col-md-10 col-md-offset-1"> <div style="height:auto;" class="card"> <div class="card-block"> <h3 class="card-title">' + pDetails[0].title2 + '</h3> <p class="card-text">' + pDetails[0].idea2 + '</p></div></div></div></div>');
+        else
+            $(".sidenav-details").append('<h2 class="section-heading text-cente">' + name + '</h2> <div class="row">&nbsp;</div><h4>Domain:</h4><span>' + mDetails[0].domain + ' </span><h4>Languages:</h4><span>' + mDetails[0].languages + ' </span><div class="row">&nbsp;</div><div class="row"> <div class="col-md-10 col-md-offset-1"> <div style="height:auto;" class="card"> <div class="card-block"> <h3 class="card-title">' + pDetails[0].title1 + '</h3> <p class="card-text">' + pDetails[0].idea1 + '</p></div></div></div></div><div class="row"> <div class="col-md-10 col-md-offset-1"> <div style="height:auto;" class="card"> <div class="card-block"> <h3 class="card-title">' + pDetails[0].title2 + '</h3> <p class="card-text">' + pDetails[0].idea2 + '</p></div></div></div></div><div class="row"> <div class="col-md-10 col-md-offset-1"> <div style="height:auto;" class="card"> <div class="card-block"> <h3 class="card-title">' + pDetails[0].title3 + '</h3> <p class="card-text">' + pDetails[0].idea3 + '</p></div></div></div></div>');
+        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+            $("#mySidenav").css('width',"100%");
+        }
+        else 
+            $("#mySidenav").css('width',"100%");
+    });
 
 
 
 
- $(document).on("click",".btn-projects",function(){
-    $("body").css('overflow-y','hidden');
-    var name = $(this).data("name");
-    var pDetails = JSON.search(projectIdeas,'//*[name="' + name + '"]');
-    var mDetails = JSON.search(mentors,'//*[name="' + name + '"]');
-    $(".sidenav-details").empty();
-    if(pDetails[0].title3 == "")
-        $(".sidenav-details").append('<h2 class="section-heading text-center">' + name + '</h2> <div class="row">&nbsp;</div><h4>Domain:</h4><span>' + mDetails[0].domain + ' </span><h4>Languages:</h4><span>' + mDetails[0].languages + ' </span><div class="row">&nbsp;</div><div class="row"> <div class="col-md-10 col-md-offset-1"> <div style="height:auto;" class="card"> <div class="card-block"> <h3 class="card-title">' + pDetails[0].title1 + '</h3> <p class="card-text">' + pDetails[0].idea1 + '</p></div></div></div></div><div class="row"> <div class="col-md-10 col-md-offset-1"> <div style="height:auto;" class="card"> <div class="card-block"> <h3 class="card-title">' + pDetails[0].title2 + '</h3> <p class="card-text">' + pDetails[0].idea2 + '</p></div></div></div></div>');
-    else
-        $(".sidenav-details").append('<h2 class="section-heading text-cente">' + name + '</h2> <div class="row">&nbsp;</div><h4>Domain:</h4><span>' + mDetails[0].domain + ' </span><h4>Languages:</h4><span>' + mDetails[0].languages + ' </span><div class="row">&nbsp;</div><div class="row"> <div class="col-md-10 col-md-offset-1"> <div style="height:auto;" class="card"> <div class="card-block"> <h3 class="card-title">' + pDetails[0].title1 + '</h3> <p class="card-text">' + pDetails[0].idea1 + '</p></div></div></div></div><div class="row"> <div class="col-md-10 col-md-offset-1"> <div style="height:auto;" class="card"> <div class="card-block"> <h3 class="card-title">' + pDetails[0].title2 + '</h3> <p class="card-text">' + pDetails[0].idea2 + '</p></div></div></div></div><div class="row"> <div class="col-md-10 col-md-offset-1"> <div style="height:auto;" class="card"> <div class="card-block"> <h3 class="card-title">' + pDetails[0].title3 + '</h3> <p class="card-text">' + pDetails[0].idea3 + '</p></div></div></div></div>');
-    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-    $("#mySidenav").css('width',"100%");
-}
-else 
-    $("#mySidenav").css('width',"100%");
-});
+    $(document).on("click",".closebtn",function(){
+        $("body").css('overflow-y','auto');
+        document.getElementById("mySidenav").style.width = "0";
+    });
 
- $(document).on("click",".closebtn",function(){
-    $("body").css('overflow-y','auto');
-    document.getElementById("mySidenav").style.width = "0";
-});
+    $.each(mentors,function(k,v){
 
- $.each(mentors,function(k,v){
+        $(".mentorsHolder").append('<div class="col-md-4 col-lg-4 col-sm-11 col-xs-11"> <div class="card"> <div class="card-img-top"><div style="background:url(' + v.image + ');background-size:cover;background-repeat:no-repeat;background-position:center center;width:100%;height:100%;"></div></div> <div class="card-block"> <h4 class="card-title text-muted">' + v.name + '</h4> <p class="text-muted card-text text-left">Domain: '+ v.domain+ '<br>Languages: '+ v.languages +'</p><button data-name="' + v.name + '" class="btn btn-default btn-xl sr-button btn-projects">View Projects</button></p><p class="card-text"><small class="text-muted"><a target="_blank" href="' + v.github + '"><i class="fa fa-github fa-2x"></i></a><a target="_blank" href="tel:' + v.mobile + '"><i class="fa fa-phone fa-2x"></i></a><a target="_blank" href="mailto:' + v.email + '"><i class="fa fa-envelope fa-2x"></i></a></small></p></div></div></div>');
+    });
 
-    $(".mentorsHolder").append('<div class="col-md-4 col-lg-4 col-sm-11 col-xs-11"> <div class="card"> <div class="card-img-top"><div style="background:url(' + v.image + ');background-size:cover;background-repeat:no-repeat;background-position:center center;width:100%;height:100%;"></div></div> <div class="card-block"> <h4 class="card-title text-muted">' + v.name + '</h4> <p class="text-muted card-text text-left">Domain: '+ v.domain+ '<br>Languages: '+ v.languages +'</p><button data-name="' + v.name + '" class="btn btn-default btn-xl sr-button btn-projects">View Projects</button></p><p class="card-text"><small class="text-muted"><a target="_blank" href="' + v.github + '"><i class="fa fa-github fa-2x"></i></a><a target="_blank" href="tel:' + v.mobile + '"><i class="fa fa-phone fa-2x"></i></a><a target="_blank" href="mailto:' + v.email + '"><i class="fa fa-envelope fa-2x"></i></a></small></p></div></div></div>');
-});
+
+    $.each(mentees,function(k,v){
+
+        $("#mentees").append('<div class="row menteeCard"> <div class="col-md-5 col-lg-5 col-sm-12 col-xs-12 menteeDetails"><h2 class="menteeName">' + v.name + ' </h2><div class="mentorDetails"><h4>MENTOR</h4><h3 class="mentorName">' + v.mentor + '</h3></div></div><div class="col-md-7 col-lg-7 col-sm-12 col-xs-12 menteeOther"><h3>' + v.project + '</h3><center><a target="_blank" class="btn btn-primary" href="' + v.link + '">View Proposal</a></center></div></div>');
+    });
+
 })(jQuery); // End of use strict
