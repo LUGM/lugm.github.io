@@ -153,7 +153,18 @@
         "domain":"Full Stack Web Dev ",
         "image": "https://github.com/rsarky.png",
         "languages":"JavaScript, React, Angular, Node and Firebase."
+    },
+        {
+        "name":"Sai Vignesh",
+        "mobile":"8296539672",
+        "whatsapp":"8296539672",
+        "email":"dragoonvignesh1998@gmail.com",
+        "github":"https://github.com/dragoonvignesh1998",
+        "domain":"Web dev, command line programs",
+        "image": "https://github.com/dragoonvignesh1998.png",
+        "languages":"C, Java, Python, JavaScript"
     }
+
     ];
 
 
@@ -222,11 +233,11 @@
         "idea3":""
     },
     {
-        "name":"Ujjwal Arora",
-        "title1":"Emoji, Video, and Audio Support for RocketChat Android App",
-        "idea1":"Emojis, video messages, and audio messages are current supported by the RocketChat web app. They are not, however, by their official android application. Your goal will be to port these features over to their android application.\nRefer issues #113, #114, #175 on https://github.com/RocketChat/Rocket.Chat.Android",
-        "title2":"Improve Table Structure Tab of PHPMyAdmin",
-        "idea2":"Discussions of improving the table structure tab are currently about at https://github.com/phpmyadmin/phpmyadmin/projects/1\nYou will participate there, get the plans ready, and implement it!",
+        "name":"Sai Vignesh",
+        "title1":"Meme generator on the Command Line",
+        "idea1":"Create simple memes on the command line with blazing speed, with features like viewing the template/final meme, adding text to the top and bottom and more. Prereq:any language with decent cli support like Go or pyton or C/C++.",
+        "title2":"",
+        "idea2":"",
         "title3":"",
         "idea3":""
     },
