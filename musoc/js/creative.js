@@ -65,287 +65,179 @@
 
     var mentors = [
     {
-        "name":"Yash Kumar Lal",
-        "mobile":"8095718111",
+        "name":"Pavan Kalyan",
+        "mobile":"8008882650",
+        "whatsapp":"8008882650",
+        "email":"damalapati.pavan@gmail.com",
+        "github":"https://github.com/pavan-kalyan",
+        "domain":"Web dev,ML/AI,Linux Server,Android App Dev",
+        "languages":"Go, Python, C, Java, Javascript",
+        "image": "https://github.com/pavan-kalyan.png"
+    },
+    {
+        "name":"Rahul Sathanapalli",
+        "mobile":"9513391337",
+        "whatsapp":"9513391337",
+        "email":"skvrahul@gmail.com",
+        "github":"https://github.com/skvrahul",
+        "domain":"Artificial Intelligence, Game Theory",
+        "image": "https://github.com/skvrahul.png",
+        "languages":"C, C++, Java, Python,Objective-C"
+    },
+    {
+        "name":"Somansh Reddy",
+        "mobile":"9959525552",
+        "whatsapp":"9959525552",
+        "email":"somanshreddy@gmail.com",
+        "github":"https://github.com/somanshreddy",
+        "domain":"Machine Learning,Artificial Intelligence",
+        "languages":"C/C++, Java, Python",
+        "image": "https://github.com/somanshreddy.png"
+    },
+    {
+        "name":"Reuben Nellissery",
+        "mobile":"8278921004",
+        "whatsapp":"8278921004",
+        "email":"reubennellissery@gmail.com",
+        "github":"https://github.com/bennyhawk",
+        "domain":"Android, Web dev",
+        "languages":"Java, Python, C++",
+        "image": "https://github.com/bennyhawk.png"
+    },
+    {
+        "name":"Karan Mannan",
+        "mobile":"",
         "whatsapp":"",
-        "email":"yklal95@gmail.com",
-        "github":"https://github.com/ykl7",
-        "domain":"NLP, ML, iOS, Flask",
-        "languages":"Python, Objective-C",
-        "image": "https://ykl7.github.io/images/IMG_3531.jpg"
+        "email":"drkaranmannan@gmail.com",
+        "github":"https://github.com/knmn2000",
+        "domain":"Computer Vision, Machine Learning",
+        "languages":"Python",
+        "image": "https://github.com/knmn2000.png"
     },
     {
-        "name":"Utkarsh Kashyap",
-        "mobile":"7829414143",
-        "whatsapp":"",
-        "email":"utkarsh.k05@gmail.com",
-        "github":"https://github.com/utkarsh5k",
-        "domain":"ML",
-        "image": "https://avatars0.githubusercontent.com/u/12728102",
-        "languages":"C, C++, Java, Python"
+        "name":"Utkarsh Raj",
+        "mobile":"8586897126",
+        "whatsapp":"8586897126",
+        "image": "https://github.com/utk3012.png",
+        "email":"utkarsh3012@gmail.com",
+        "github":"https://github.com/utk3012",
+        "domain":"Web development",
+        "languages":"Vue.js, Angular, Java, C++, JavaScript"
     },
     {
-        "name":"Sudarshan Sunder",
-        "mobile":"7259377755",
-        "whatsapp":"9445069658",
-        "email":"sundersudarshan@gmail.com",
-        "github":"https://github.com/sudarshansunder",
-        "domain":"Android, Backend stuff, ML",
-        "languages":"C/C++, Java, JavaScript, Python, PHP",
-        "image": "https://avatars0.githubusercontent.com/u/4697324"
+        "name":"Vishwa Kalyanaraman",
+        "mobile":"7019045616",
+        "whatsapp":"7019045616",
+        "email":"vishwa.kalyanaraman@gmail.com",
+        "github":"https://github.com/vishwakalyanaraman",
+        "domain":"Machine Learning, Deep Learning",
+        "image": "https://github.com/vishwakalyanaraman.png",
+        "languages":"JavaScript, Python, C, Python"
     },
     {
-        "name":"Bhargav Karanam",
-        "mobile":"8123637692",
-        "whatsapp":"",
-        "email":"bhargav.karanam@gmail.com",
-        "github":"https://github.com/bhargavkaranam",
-        "domain":"WebDev",
-        "languages":"Node.JS, PHP, React JS",
-        "image": "https://avatars1.githubusercontent.com/u/8963298"
+        "name":"Yashika Badaya",
+        "mobile":"8296538870",
+        "whatsapp":"8296538870",
+        "email":"yashikabadaya@gmail.com",
+        "github":"https://github.com/yashikabadaya",
+        "domain":"ML, Data Science, Image Processing, Scripting",
+        "image": "https://github.com/yashikabadaya.png",
+        "languages":"Python, OpenCv"
     },
     {
-        "name":"Avikant Saini",
-        "mobile":"+91 809-513-8333",
-        "whatsapp":"",
-        "email":"avikantsainidbz@gmail.com",
-        "github":"https://github.com/avikantz",
-        "domain":"iOS, UI/UX, Graphics, Memes",
-        "languages":"Swift, Objective C, Python",
-        "image": "https://avatars1.githubusercontent.com/u/7699509"
+        "name":"Rohit Sarkar",
+        "mobile":"9765268459",
+        "whatsapp":"9765268459",
+        "email":"rohitsarkar5398@gmail.com",
+        "github":"https://github.com/rsarky",
+        "domain":"Full Stack Web Dev ",
+        "image": "https://github.com/rsarky.png",
+        "languages":"JavaScript, React, Angular, Node and Firebase."
     },
-    {
-        "name":"Aditya Walvekar",
-        "mobile":"9342579059",
-        "whatsapp":"",
-        "image": "https://avatars0.githubusercontent.com/u/15139219",
-        "email":"aditya.s.walvekar@gmail.com",
-        "github":"https://github.com/adwalvekar",
-        "domain":"Web development, Neural Networks",
-        "languages":"Python, PHP, Java, C, JavaScript"
-    },
-    {
-        "name":"Shivang Bharadwaj",
-        "mobile":"9650344911",
-        "whatsapp":"",
-        "email":"shivang.bharadwaj3@gmail.com",
-        "github":"https://github.com/reficul31",
-        "domain":"WebDev",
-        "image": "https://avatars1.githubusercontent.com/u/19486491",
-        "languages":"JavaScript, Python"
-    },
-    {
-        "name":"Mehul Gupta",
-        "mobile":"9521092155",
-        "whatsapp":"9901693769",
-        "email":"mehul.guptagm@gmail.com",
-        "github":"https://github.com/therealssj",
-        "domain":"WebDev",
-        "image": "https://avatars3.githubusercontent.com/u/8619106",
-        "languages":"PHP, Python"
-    },
-    {
-        "name":"Kartik Arora",
-        "mobile":"9871211569",
-        "whatsapp":"",
-        "email":"aawaazdo@kartikarora.me",
-        "github":"https://github.com/kartikarora",
-        "domain":"Android, Full Stack Dev",
-        "image": "https://avatars3.githubusercontent.com/u/6591617",
-        "languages":"Java, XML, Python, Flask, Javascript, Material Design"
-    },
-    {
-        "name":"Raamish Malik",
-        "mobile":"7026827800 ",
-        "whatsapp":"",
-        "email":"https://raamish.malik@gmail.com",
-        "github":"https://github.com/raamish",
-        "domain":"Backend(Python) , ML",
-        "image": "https://avatars2.githubusercontent.com/u/13959641",
-        "languages":"C, C++, Python"
-    },
-    {
-        "name":"Siddharth Kothiyal",
-        "mobile":"9663597229",
-        "whatsapp":"",
-        "email":"sid.kothiyal27@gmail.com",
-        "github":"https://github.com/sidkothiyal",
-        "domain":"Android, Python Applications, ROS, Machine Learning ",
-        "image": "https://avatars0.githubusercontent.com/u/15217079",
-        "languages":"Python, C, C++, Java, XML"
-    },
-    {
-        "name":"Ujjwal Arora",
-        "mobile":"7019953464",
-        "whatsapp":"7019953464",
-        "email":"arora.ujjwal@gmail.com",
-        "github":"https://www.github.com/azwreith",
-        "domain":"WebDev, Android",
-        "image": "https://avatars3.githubusercontent.com/u/10354323",
-        "languages":"JavaScript, PHP, Python, Java"
-    },
-    {
-        "name":"Arjun Narayan",
-        "mobile":"9916324321",
-        "whatsapp":"09916324321",
-        "email":"arjun.narayan46@gmail.com",
-        "github":"https://github.com/TacticalGoat",
-        "domain":"Web, App",
-        "image": "https://avatars1.githubusercontent.com/u/7513294",
-        "languages":"Python C# C++"
-    },
-    {
-        "name":"Chinmay Nivsarkar",
-        "mobile":"8123653584",
-        "whatsapp":"",
-        "email":"chinmayn96@gmail.com",
-        "github":"https://github.com/chinmay-n",
-        "domain":"Linux",
-        "image": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/17759909_1673815029300771_2852045656962401548_n.jpg?efg=eyJpIjoiYiJ9&oh=cb826aa1a599300cb6e174257cf0dcea&oe=59B204C4",
-        "languages":"Python,C"
-    },
-    {
-        "name":"Sukriti Paul",
-        "mobile":"9535281939",
-        "whatsapp":"9449987703",
-        "email":"sukritipaul05@gmail.com",
-        "github":"https://github.com/JuOllie",
-        "image": "https://avatars3.githubusercontent.com/u/19627929",
-        "domain":"Image Processing, Computer Vision & PR Data Mining & Data Science Android",
-        "languages":"C,C++,C#,Java, Ruby, Python and MATLAB"
-    },
-    {
-        "name":"Ishan Handa",
-        "mobile":"9731794141",
-        "whatsapp":"",
-        "email":"ishanhanda1@gmail.com",
-        "github":"https://github.com/ishaaann",
-        "domain":"BackEnd , ML and Data Science",
-        "image": "https://avatars3.githubusercontent.com/u/14318248",
-        "languages":"Python, C, C#, SQL, (Little Little) Javascript, R"
-    },
-    {
-        "name":"Jitesh Kumar Jha",
-        "mobile":"9591361570",
-        "whatsapp":"",
-        "email":"jiteshjha96@gmail.com",
-        "github":"https://github.com/jiteshjha",
-        "domain":"WebDev, ML, Simulations",
-        "image": "https://avatars3.githubusercontent.com/u/10262106",
-        "languages":"Javascript, Ruby, Python, C"
-    },
-    {
-        "name":"Saketh Kaparthi",
-        "mobile":"08123199279",
-        "whatsapp":"",
-        "email":"sakethkaparthi@gmail.com",
-        "github":"https://github.com/sakethkaparthi",
-        "domain":"Android, Google cardboard VR",
-        "image": "https://avatars2.githubusercontent.com/u/7693606",
-        "languages":"Java, python"
-    },
-    {
-        "name":"Punit Bhatt",
-        "mobile":"9964356899",
-        "whatsapp":"",
-        "email":"bhattpunit96@gmail.com",
-        "github":"https://github.com/punitbhatt",
-        "domain":"ML, neural network, Android",
-        "image": "https://avatars1.githubusercontent.com/u/13984558",
-        "languages":"Python, C++, Java"
-    },
-    {
-        "name":"Mayank Bansal",
-        "mobile":"9742931741",
-        "whatsapp":"3125932465",
-        "email":"manky.bansal@gmail.com",
-        "github":"https://github.com/mankybansal",
-        "image": "https://avatars2.githubusercontent.com/u/12834184",
-        "domain":"WebDev, Android",
-        "languages":"Java, PHP, C++, C, HTML, JS, CSS"
-    },
-    {
-        "name":"Vrushank Upadhyay",
-        "mobile":"9663595184",
-        "whatsapp":"8758032639",
-        "email":"uvrushank21@gmail.com",
-        "github":"https://github.com/vrush03",
-        "image": "https://avatars0.githubusercontent.com/u/12833721",
-        "domain":"ML, Algorithms, Backend",
-        "languages":"C, C++, Python, Java, Go"
+        {
+        "name":"Sai Vignesh",
+        "mobile":"8296539672",
+        "whatsapp":"8296539672",
+        "email":"dragoonvignesh1998@gmail.com",
+        "github":"https://github.com/dragoonvignesh1998",
+        "domain":"Web dev, command line programs",
+        "image": "https://github.com/dragoonvignesh1998.png",
+        "languages":"C, Java, Python, JavaScript"
     }
+
     ];
+
 
     var projectIdeas = [
     {
-        "name":"Utkarsh Kashyap",
-        "title1":"Simple ML library from scratch",
-        "idea1":"A small C++ library that would contain few basic ML algorithms like Linear Regression, K-means Clustering and k-Nearest Neighbours (for the brave, Neural Nets). The library will be written from scratch, in C++, in an object oriented fashion, and shall contain all the required utility functions that are generally used in Data oriented problems, like loading and writing to CSV files, finding min/max/mean/mode etc, filling null values in a dataset. The algorithms itself will have 4 basic methods to train, test, predict and find the score of a test set. ",
-        "title2":"Optimize distance between functions in a single text file",
-        "idea2":"There are large text files containing 1000+ lines of code, where there are various functions that call each other. Many times, the functions are poorly placed in the file and it requires a lot of scrolling to track functions calling each other. The aim of this project is to make an optimization tool that finds the best ordering of functions in a file based on some metric that accurately represents the distance between functions, and rearranges them accordingly, thus enhancing readability of large codebases. ",
+        "name":"Rahul Sathanapalli",
+        "title1":"An Automted agent which can play the game '2048'",
+        "idea1":"The task at hand is to develop an automated agent that will be able to play the popular casual gamewhich goes by the name '2048’. The task will include developing the engine or environment for the game(and perhaps a GUI if you wish) which canthen be linked to your agent. In the case that some sort of sampling of agents play is being done, the junior can even implement a parallel or threaded environment/engine that will allow you to run multipleinstances of the game in batches and sample from these to score your agent.",
+        "title2":"",
+        "idea2":"",
         "title3":"",
         "idea3":""
     },
     {
-        "name":"Kartik Arora",
-        "title1":"Wear Dialer",
-        "idea1":"Dial a number on the watch and place a call from your phone. No need to take out the phone from pocket!",
-        "title2":"Potato Library",
-        "idea2":"Easy to use Utility library for Android",
-        "title3":"Android Permissions",
-        "idea3":"WebApp, RestAPI and Android App to list information about the permissions in the Android SDK"
-    },
-    {
-        "name":"Shivang Bharadwaj",
-        "title1":"Dynamic Form Creation and Dating Saving",
-        "idea1":"Making a desktop application that allows us to store data in dynamically created forms offline and then the data can be pushed to the server once the host is connected to the internet.",
-        "title2":"Text Editor Plugin for Lightweight Markup Languages",
-        "idea2":"Basically a text editor plugin that allows us to render the LML in the formatted form live as it is being typed. The plugin might support multiple file extensions such as markdown, reStructuredText, Textile etc.",
+        "name":"Karan Mannan",
+        "title1":"A bot to drive cars in games",
+        "idea1":"Making a Bot to drive cars in games using OpenCV, by detecting lanes and paths, and sending Direct inputs accordingly .",
+        "title2":"A bot to drive cars in games using neural networks.",
+        "idea2":"Same as above but uses neural networks.",
         "title3":"",
         "idea3":""
     },
     {
-        "name":"Bhargav Karanam",
-        "title1":"Facebook Bot for DigitalOcean Server Management",
-        "idea1":"Make a Facebook bot that uses the DigitalOcean API to manage droplets. This can be used to view status, load of the servers. Also can be used to add/edit DNS records, upgrade droplets, create load balancers etc. Can be used to listen to events once DO introduces the Webhook service. Droplets can be upgraded, load balancers can be created on demand once webhooks are introduced",
-        "title2":"App to verify the authenticity of a FB post",
-        "idea2":"Build an app to verify authenticity of Facebook posts. Mine through the history of posts by the individual/pages using Graph API and also the news articles regarding the topic discussed in the post. Mining through the feed of the page/individual will give an insight on the person's behaviour. App can be used to display (predict) the certainty of a post being fake.  #TRUMPELECTIONSCENES",
+        "name":"Somansh Reddy",
+        "title1":"Toxic Comment Classification",
+        "idea1":"you’re challenged to build a multi-headed model that’s capable of detecting different types of of toxicity like threats, obscenity, insults, and identity-based hate better than Perspective’s current models. You’ll be using a dataset of comments from Wikipedia’s talk page edits. Prereq:language like Python or C/C++. Bonus: Python,Keras,Tensorflow.",
+        "title2":"",
+        "idea2":"",
         "title3":"",
         "idea3":""
     },
     {
-        "name":"Mehul Gupta",
-        "title1":"CLI for ReadTheDocs",
-        "idea1":"Create a cli for downloading docs using readthedocs api.\nThe hardest part of this project is probably the fact that readthedocs doesn't have a proper documentation for api.\nLast time I checked some of the stuff did not work either as they were shifting to a new api so might need to leverage the site to find the required docs.\nLanguage of choice: python.",
-        "title2":"Google Play Store API",
-        "idea2":"Google changed their playstore API recently and added much more data which is not available on the old API.\nThe opengapps project is one such project which requires the latest API but its not very straight forward to figure it out.\nIf you use a proxy to see the playstore traffic then the playstore apk stops making requests.\nGetting past this is probably the hardest part.\nLanguage of choice: python.\n\nP.S We will be dealing with google protocol buffers aswell since that is what the playstore uses as the message format.",
+        "name":"Reuben Nellissery",
+        "title1":"BetterType (Android app)",
+        "idea1":"the objective of the android app is to enhance the quality of writing by suggesting better words. when the user types text into the app, the app underlines the areas that can be enhanced, on clicking the area, an option to modify the selection is presented. user can choose to modify or ignore the suggestion.planned suggestion: spell check, replace recurring words withe synonyms.",
+        "title2":"",
+        "idea2":"",
         "title3":"",
         "idea3":""
     },
     {
-        "name":"Jitesh Kumar Jha",
-        "title1":"language-translate",
-        "idea1":"Implement a basic model of Neural Machine Translation(https://github.com/neubig/nmt-tips) with Tensorflow and NLTK as a web application(preferably, flask), which serves as language translator web-application. The service will probably take up some time to produce results, hence this project be extended with the employment of GPUs as the next stage of the project. Difficulty Level : Hard",
-        "title2":"Flappy-play-yo-self",
-        "idea2":"Train a neural network to play Flappy Bird using genetic algorithm(GA). This project can either be implemented as an application(pygame library looks interesting for having a control over the game), or as a modest javascript single page webapp(let's stick with react.js). Difficulty Level : Medium",
+        "name":"Vishwa Kalyanaraman",
+        "title1":"SmartFridge Applications",
+        "idea1":"An application that suggests a list of food recipes that can be made with a given number of ingredients as input. The ingredients are classified using machine learning techniques and are then used to find recipes. prereq:android app dev, strong machine learning fundamentals.",
+        "title2":"Bill Splitting Web App",
+        "idea2":"A web application that allows a group of friends to easily split bills at restaurants. prereq: React or any other web dev suite.",
         "title3":"",
         "idea3":""
     },
     {
-        "name":"Ishan Handa",
-        "title1":"Document Fingerprinting",
-        "idea1":"The basic idea of building this product is to detect cases of \"Document Copying\" and \"Code Plagiarism\". These problems are encountered by almost everybody and there does not exist many solutions for it. We are looking to build an industry grade solution here which involves working on different algorithms for detecting aforementioned cases and providing a proper GUI for the same. We would be looking to implement this in Python/ (or a language of your choice) and we can also implement this as a web service depending on your expertise.",
-        "title2":"Remote Screen Control",
-        "idea2":"Remote Screen Control let's you control Linux systems remotely, in a easy and fast way over local area networks (basically a Team Viewer clone). While doing this you'll have to work on various different components like key logger, using sockets to transfer images, file transfers, live video and voice chat etc. The biggest challenge when it comes to this problem is to reduce the lag of videos over the internet.",
-        "title3":"Chrome Extension For Blocking Unwanted Content",
-        "idea3":"We are looking to build a chrome extension which lets user block any content / image / videos on internet which are not suitable to his preferences. The product basically targets people who are recovering from addictions and children who may unknowingly access content which they should not. We'll be looking to do this in Javascript so a little experience with Javascript would be appreciated."
+        "name":"Utkarsh Raj",
+        "title1":"Archive Feature for the MUSOC site.",
+        "idea1":"Add View Archive feature on the LUGM MUSoC website. This feature will help participants view past projects arranged year wise. Each project will have its description, technologies used and information about the mentor and the participant. prereq: HTML,CSS,JavaScript",
+        "title2":"",
+        "idea2":"",
+        "title3":"",
+        "idea3":""
     },
     {
-        "name":"Ujjwal Arora",
-        "title1":"Emoji, Video, and Audio Support for RocketChat Android App",
-        "idea1":"Emojis, video messages, and audio messages are current supported by the RocketChat web app. They are not, however, by their official android application. Your goal will be to port these features over to their android application.\nRefer issues #113, #114, #175 on https://github.com/RocketChat/Rocket.Chat.Android",
-        "title2":"Improve Table Structure Tab of PHPMyAdmin",
-        "idea2":"Discussions of improving the table structure tab are currently about at https://github.com/phpmyadmin/phpmyadmin/projects/1\nYou will participate there, get the plans ready, and implement it!",
+        "name":"Yashika Badaya",
+        "title1":"Object Recognition",
+        "idea1":"Object recognition using opencv,python and machine learning",
+        "title2":"Easy file Management",
+        "idea2":"file management of operating systems using python scripting and cli commands.",
+        "title3":"",
+        "idea3":""
+    },
+    {
+        "name":"Sai Vignesh",
+        "title1":"Meme generator on the Command Line",
+        "idea1":"Create simple memes on the command line with blazing speed, with features like viewing the template/final meme, adding text to the top and bottom and more. Prereq:any language with decent cli support like Go or pyton or C/C++.",
+        "title2":"",
+        "idea2":"",
         "title3":"",
         "idea3":""
     },
@@ -359,11 +251,11 @@
         "idea3":"We are looking to build a chrome extension which lets user block any content / image / videos on internet which are not suitable to their preferences. The product basically targets people who are recovering from addictions and children who may unknowingly access content which they should not. We'll be looking to do this in Javascript so a little experience with Javascript would be appreciated."
     },
     {
-        "name":"Yash Kumar Lal",
-        "title1":"Simple Natural Language Processing techniques",
-        "idea1":"Native implementation and evaluation of Part of Speech tagging, language modeling and representation. Baselining of each algorithm and testing to be included. Further algorithms and approaches can be covered if time permits (leeway for students). This is a good project for people looking to start (or solidify) NLP.",
-        "title2":"Backend for Samaritan smart system",
-        "idea2":"https://github.com/avikantz/Samaritan was designed to be a semi-intelligent system based on Samaritan from Person of Interest. Python implementation of context recognition from available query in the backend. Students can also come up with other ideas that the system would benefit from.",
+        "name":"Pavan Kalyan",
+        "title1":"An open source implementation of Amazon's WhisperSync (and similar tech)",
+        "idea1":"The task would be to code a server app on linux which synchronises e-book metadata (last page read, bookmarks, notes), the clients in this case can be an android app( ebook reader) which requests the server for metadata and uploads any change in metadata. the server can synchronize metadata with a library of books (database) from a e-book management service like calibre.(Any suitable language is fine)",
+        "title2":"",
+        "idea2":"",
         "title3":"",
         "idea3":""
     },
@@ -431,11 +323,11 @@
         "idea3":""
     },
     {
-        "name":"Sudarshan Sunder",
-        "title1":"Smallr - Minimizing boilerplate code in Android",
-        "idea1":"Smallr, an Android library that aims to minimize/remove the need to write so much boilerplate code (Code that needs to be written with little or no modifications just to make something work). One such example is the RecyclerView adapter and the FragmentPager adapter. This library is essentially a wrapper to such classes (one's mentioned above and more) that reduces the amount of code required to accomplish the same thing.",
-        "title2":"Braille OCR using Python ",
-        "idea2":"This application reads out Braille in English for the visually impaired. It uses Machine learning in order to recognize the braille characters. The characters are then mapped to their corresponding English alphabet. It then uses TTS to read out the sentence in English or any language that the user prefers (Using Google translate API). ",
+        "name":"Rohit Sarkar",
+        "title1":"Event booking portal feature implementation",
+        "idea1":"The task is to implement new features for the event booking portal of MIT using React/Angular, Nodejs and firebase.",
+        "title2":"",
+        "idea2":"",
         "title3":"",
         "idea3":""
     },
