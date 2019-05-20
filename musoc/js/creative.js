@@ -163,7 +163,19 @@
         "domain":"Web dev, command line programs",
         "image": "https://github.com/dragoonvignesh1998.png",
         "languages":"C, Java, Python, JavaScript"
+    },
+        {
+        "name":"Tushar Dadlani",
+        "mobile":"+16503355986",
+        "whatsapp":"+16503355986",
+        "email":"tush726@gmail.com",
+        "github":"https://github.com/tushar-dadlani",
+        "domain":"Computer Vision, Containers",
+        "image": "https://github.com/tushar-dadlani.png",
+        "languages":"C/C++, Java, Python, JavaScript, Web dev"
     }
+
+
 
     ];
 
@@ -235,25 +247,25 @@
     {
         "name":"Sai Vignesh",
         "title1":"Meme generator on the Command Line",
-        "idea1":"Create simple memes on the command line with blazing speed, with features like viewing the template/final meme, adding text to the top and bottom and more. Prereq:any language with decent cli support like Go or pyton or C/C++.",
+        "idea1":"Create simple memes on the command line with blazing speed, with features like viewing the template/final meme, adding text to the top and bottom and more. Prereq:any language with decent cli support like Go, pyton or C/C++.",
         "title2":"",
         "idea2":"",
         "title3":"",
         "idea3":""
     },
     {
-        "name":"Raamish Malik",
-        "title1":"Online Code Judge",
-        "idea1":"The brief idea here is to simulate the working of the popular online code judges like SPOJ and CodeChef but with the added functionalities of p2p chat or file sharing (more feature suggestions are welcome). \nFrontend would be web obviously with the choice of backend left for the mentee's comfort.",
-        "title2":"Music Recommendation as a Service",
-        "idea2":"We have always ran into the problem of liking one song but never able to find songs similar to that. To tackle such problems, the idea is to provide a web service (or as an API) that connects with a users music history and tries to suggest songs similar to the taste of the user's music choice.\nAn additional feature would be standalone suggestion by just taking a song as input and providing similar genre songs (more work needed here).",
-        "title3":"Chrome Extension For Blocking Unwanted Content",
-        "idea3":"We are looking to build a chrome extension which lets user block any content / image / videos on internet which are not suitable to their preferences. The product basically targets people who are recovering from addictions and children who may unknowingly access content which they should not. We'll be looking to do this in Javascript so a little experience with Javascript would be appreciated."
+        "name":"Tushar Dadlani",
+        "title1":"Inference metrics of multi-stage computer vision models in production",
+        "idea1":"The task would be to measure properties of multi-stage computer vision models in production.(E.g: measuring FPS of the computer vision processing pipeline) Prereq: Python 3, tensorflow/pytorch, basics of computer vision",
+        "title2":"",
+        "idea2":"",
+        "title3":"",
+        "idea3":""
     },
     {
         "name":"Pavan Kalyan",
         "title1":"An open source implementation of Amazon's WhisperSync (and similar tech)",
-        "idea1":"The task would be to code a server app on linux which synchronises e-book metadata (last page read, bookmarks, notes), the clients in this case can be an android app( ebook reader) which requests the server for metadata and uploads any change in metadata. the server can synchronize metadata with a library of books (database) from a e-book management service like calibre.(Any suitable language is fine)",
+        "idea1":"The task would be to code a server app on linux which synchronises e-book metadata (last page read, bookmarks, notes), the clients in this case can be an android app( ebook reader) or a web app which requests the server for metadata and uploads any change in metadata. the server can synchronize metadata with a library of books (database) from a e-book management service like calibre.(Any suitable language is fine)",
         "title2":"",
         "idea2":"",
         "title3":"",
