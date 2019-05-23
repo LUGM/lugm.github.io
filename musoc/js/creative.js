@@ -130,7 +130,7 @@
         "whatsapp":"7019045616",
         "email":"vishwa.kalyanaraman@gmail.com",
         "github":"https://github.com/vishwakalyanaraman",
-        "domain":"Machine Learning, Deep Learning",
+        "domain":"Machine Learning, Deep Learning, Web dev",
         "image": "https://github.com/vishwakalyanaraman.png",
         "languages":"JavaScript, Python, C, Python"
     },
@@ -184,7 +184,7 @@
     {
         "name":"Rahul Sathanapalli",
         "title1":"An Automted agent which can play the game '2048'",
-        "idea1":"The task at hand is to develop an automated agent that will be able to play the popular casual gamewhich goes by the name '2048’. The task will include developing the engine or environment for the game(and perhaps a GUI if you wish) which canthen be linked to your agent. In the case that some sort of sampling of agents play is being done, the junior can even implement a parallel or threaded environment/engine that will allow you to run multipleinstances of the game in batches and sample from these to score your agent.",
+        "idea1":"The task at hand is to develop an automated agent that will be able to play the popular casual gamewhich goes by the name '2048’. The task will include developing the engine or environment for the game(and perhaps a GUI if you wish) which can then be linked to your agent. In the case that some sort of sampling of agents play is being done, the participant can even implement a parallel or threaded environment/engine that will allow you to run multiple instances of the game in batches and sample from these to score your agent.",
         "title2":"",
         "idea2":"",
         "title3":"",
@@ -211,7 +211,7 @@
     {
         "name":"Reuben Nellissery",
         "title1":"BetterType (Android app)",
-        "idea1":"the objective of the android app is to enhance the quality of writing by suggesting better words. when the user types text into the app, the app underlines the areas that can be enhanced, on clicking the area, an option to modify the selection is presented. user can choose to modify or ignore the suggestion.planned suggestion: spell check, replace recurring words withe synonyms.",
+        "idea1":"the objective of the android app is to enhance the quality of writing by suggesting better words. when the user types text into the app, the app underlines the areas that can be enhanced, on clicking the area, an option to modify the selection is presented. user can choose to modify or ignore the suggestion.planned suggestion: spell check, replace recurring words with synonyms.",
         "title2":"",
         "idea2":"",
         "title3":"",
@@ -229,7 +229,7 @@
     {
         "name":"Utkarsh Raj",
         "title1":"Archive Feature for the MUSOC site.",
-        "idea1":"Add View Archive feature on the LUGM MUSoC website. This feature will help participants view past projects arranged year wise. Each project will have its description, technologies used and information about the mentor and the participant. prereq: HTML,CSS,JavaScript",
+        "idea1":"Add View Archive feature on the LUGM MUSoC website (similar to https://summerofcode.withgoogle.com/archive/). This feature will help participants view past projects arranged year wise. Each project will have its description, technologies used and information about the mentor and the participant. prereq: HTML,CSS,JavaScript",
         "title2":"",
         "idea2":"",
         "title3":"",
@@ -265,7 +265,7 @@
     {
         "name":"Pavan Kalyan",
         "title1":"An open source implementation of Amazon's WhisperSync (and similar tech)",
-        "idea1":"The task would be to code a server app on linux which synchronises e-book metadata (last page read, bookmarks, notes), the clients in this case can be an android app( ebook reader) or a web app which requests the server for metadata and uploads any change in metadata. the server can synchronize metadata with a library of books (database) from a e-book management service like calibre.(Any suitable language is fine)",
+        "idea1":"The task would be to code a server app on linux which synchronises e-book metadata (last page read, bookmarks, notes), the clients in this case can be an android app( ebook reader) or a web app which requests the server for metadata and uploads any change in metadata. the server can synchronize metadata with a library of books (database) from a e-book management tool like calibre.(Any suitable language is fine)",
         "title2":"",
         "idea2":"",
         "title3":"",
@@ -337,7 +337,7 @@
     {
         "name":"Rohit Sarkar",
         "title1":"Event booking portal feature implementation",
-        "idea1":"The task is to implement new features for the event booking portal of MIT using React/Angular, Nodejs and firebase.",
+        "idea1":"The task is to implement new features for the event booking portal of MIT using React, Nodejs and firebase.",
         "title2":"",
         "idea2":"",
         "title3":"",
