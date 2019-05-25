@@ -285,7 +285,7 @@
     {
         "name":"Piyush Raj",
         "title1":"Indoor Navigation for Manipal Campus",
-        "idea1":"Using radio signals emitted by wireless access points, viz. the broadcasting beacons, we can design an indoor positioning system. Using common wireless chipset, we collect data about nearby APs, such as their, BSSID, SSID, dBi Strength, then we train these data points using. The Back-End Server has been completed. The task is to build the front end ( Android app). Skills: Android app dev,UI,HTTP,API integration.",
+        "idea1":"Using radio signals emitted by wireless access points, viz. the broadcasting beacons, we can design an indoor positioning system. Using common wireless chipset, we collect data about nearby APs, such as their, BSSID, SSID, dBi Strength, then we train these data points using support-vector machine model. The Back-End Server has been completed. The task is to build the front end ( Android app). Skills: Android app dev,UI,HTTP,API integration.",
         "title2":"",
         "idea2":"",
         "title3":"",
