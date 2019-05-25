@@ -173,7 +173,18 @@
         "domain":"Computer Vision, Containers",
         "image": "https://github.com/tushar-dadlani.png",
         "languages":"C/C++, Java, Python, JavaScript, Web dev"
+    },
+        {
+        "name":"Piyush Raj",
+        "mobile":"7260953700",
+        "whatsapp":"7260953700",
+        "email":"piyush@linuxmail.org",
+        "github":"https://github.com/0x48piraj",
+        "domain":"Cyber Security,cryptography, h/w and IoT development,web/android dev",
+        "image": "https://github.com/0x48piraj.png",
+        "languages":"C, Python, Javascript,Bash"
     }
+
 
 
 
@@ -272,13 +283,13 @@
         "idea3":""
     },
     {
-        "name":"Avikant Saini",
-        "title1":"Meme Maker",
-        "idea1":"The involved student(s) as a part of the MemeMaker organization (https://github.com/MemeMaker) would be required to do:\n- [iOS/Swift] Improve on the existing Meme Maker iOS app (Swift 3 port to begin with)\n- [iOS/Swift] Adding new features to the application.\n- [Python/Flask] Adding new features to the backend.\n- [Android/Java] Port MemeMaker to Android\n\nBenefits:\n- Dank Memer certification.\n- Shoutout on Qnax Zrzrf (:p).",
-        "title2":"Samaritan-AI",
-        "idea2":"The involved student(s) will be expected to work on the following as an attempt to create a working heavily downsized and non evil clone of Samaritan from CBS' Person of Interest.\n- [HTML/CSS/JS] Make a web interface for Samaritan. Something along the lines of (https://github.com/avikantz/Samaritan) (Right now we have a clone http://samaritan-ai.herokuapp.com)\n- [Android/Java] Create a front end all code interface using graphics libraries for Samaritan (Similar to what's done for iOS at (https://github.com/avikantz/Samaritan)\n\nBenefits:\n-Lifetime protection from Samaritan\n-Placement in Northern Lights program\n-Nautilus solutions",
-        "title3":"Instant Cutouts",
-        "idea3":"The involved students shall be expected to work on a machine learned image processing platform (Python/OpenCV/SciKitLearn) to get instant cutouts of subjects from images. This project is still in ideas phase, so the student shall have the chance to start afresh.\nMotivation: As a photoshopper/memer, most of the time is spent in getting cutouts of people (For n00bs: A cutout is a background removed image of a subject (e.g. http://i.imgur.com/fjYfbNT.png))\n(Some datasets and examples can be taken from r/cutouts)\n\nBasic workflow shall be:\n[Input image] -- system -> [cutout]\nAdvanced workflow:\n[Input image with multiple subjects] -- system -- [list of subjects] -- interface to select -> [Cutout(s)]"
+        "name":"Piyush Raj",
+        "title1":"Indoor Navigation for Manipal Campus",
+        "idea1":"Using radio signals emitted by wireless access points, viz. the broadcasting beacons, we can design an indoor positioning system. Using common wireless chipset, we collect data about nearby APs, such as their, BSSID, SSID, dBi Strength, then we train these data points using. The Back-End Server has been completed. The task is to build the front end ( Android app). Skills: Android app dev,UI,HTTP,API integration.",
+        "title2":"",
+        "idea2":"",
+        "title3":"",
+        "idea3":""
     },
     {
         "name":"Aditya Walvekar",
