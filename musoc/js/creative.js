@@ -183,7 +183,18 @@
         "domain":"Cyber Security,cryptography, h/w and IoT development,web/android dev",
         "image": "https://github.com/0x48piraj.png",
         "languages":"C, Python, Javascript,Bash"
+    },
+        {
+        "name":"Kartik Arora",
+        "mobile":"+61 450919305",
+        "whatsapp":"+61 450919305",
+        "email":"aawaazdo@kartikarora.me",
+        "github":"https://github.com/kartikarora",
+        "domain":"Android, Fullstack, Linux, Interaction Design, Audio and Acoustics",
+        "image": "https://github.com/kartikarora.png",
+        "languages":"Kotlin, Java, Python, Bash, Javascript, Max/MSP"
     }
+
 
 
 
@@ -292,11 +303,11 @@
         "idea3":""
     },
     {
-        "name":"Aditya Walvekar",
-        "title1":"Skribe",
-        "idea1":"A voice to text transcriber. Useful in meetings, and other events. Preferred language:Python. Past experience of dealing with sound is helpful. This app can be extended to support multiple people, auto voice recognition, applying some ML to extract key words and return a TLDR.",
-        "title2":"OnePay",
-        "idea2":"Often, while switching from one payment gateway to another, a huge chunk of the app needs to be re-built to fit the API calls of the newer payment gateway. With OnePay, we can build an open source module to handle transaction of any Payment Gateway through a single interface. ",
+        "name":"Kartik Arora",
+        "title1":"Open source PoC for syncing clipboard data between Android and a computer.",
+        "idea1":"Similar to http://www.clipbrd.com/ and other similar products, lets make an open source proof of concept to sync clipboard data between and Android Device and a computer. It is important to understand that this service should be available across Linux, Windows and Mac on the computer side, so a suitable technology should be chosen.",
+        "title2":"",
+        "idea2":"",
         "title3":"",
         "idea3":""
     },
