@@ -396,108 +396,52 @@
 
     var mentees = [
     {
-        "name": "Abhishree Shetty",
-        "project": "Visualization of popular algorithms in Python using NetworkX Graph library",
-        "mentor": "Vrushank Upadhyay",
-        "link": "https://goo.gl/yyr3ym"
+        "name": "Sarvagya Malaviya",
+        "project": "Financial Robo Advisor",
+        "mentor": "Somansh",
+        "link": "https://drive.google.com/open?id=1dWz0h2zC5zHGD3gZN7qNiv51Yvmjbzh8"
     },
     {
 
-        "name": "Rachit Jain",
-        "project": "Backend for Samaritan smart system",
-        "mentor": "Yash Kumar lal",
-        "link": "http://bit.ly/2rK6ANh"
+        "name": "Pratyush Kerhalkar",
+        "project": "Toxic Comment Classification",
+        "mentor": "Somansh",
+        "link": "https://drive.google.com/open?id=1RwSFRPTRUJCuR_R_NzsaWE3mtqN0LKS5"
     },
     {
 
-        "name": "Sanidhya Sinha",
-        "project": "Document fingerprinting",
-        "mentor": "Ishan Handa",
-        "link": "https://docs.google.com/document/d/1pbUT8pyciRweqLeB6asBCFXfbrJU1DXdv7fTJT1Aas4/edit?usp=drivesdk"
+        "name": "Mohammed Faizaan Muzawar",
+        "project": "Open Source Implementation of Amazon's WhisperSync",
+        "mentor": "Pavan Kalyan",
+        "link": "https://drive.google.com/open?id=1gDuciMvCAlU1EPkDz_F4SNIV9vV866Ja"
     },
     {
 
-        "name": "Paras Sood",
-        "project": "A Biomedical Android App based on Image Analysis of X-ray Images",
-        "mentor": "Sukriti Paul",
-        "link": "https://docs.google.com/document/d/1RMHVVh3F9gnmb0SPVRpS66MGhxSibxJg2bkZuO0BZvE/edit?usp=sharing"
+        "name": "Soumili Nandi",
+        "project": "Web App to Facilitate Teaching The Underpriviliged",
+        "mentor": "Pavan Kalyan",
+        "link": "https://drive.google.com/open?id=1buZQU1Svx6W4PhuGbqWGHV7bW111AoTP"
     },
     {
 
-        "name": "Divyanshu Singh",
-        "project": "Facebook Bot for DigitalOcean Server Management",
-        "mentor": "Bhargav Karanam",
-        "link": "https://docs.google.com/document/d/1PmxsJL5gHUCu7in4pPpKA6kAz_hM1hANkdaA1Df5muM/edit?usp=sharing"
+        "name": "Ritwik Agarwal",
+        "project": "Better Type",
+        "mentor": "Reuben Nellissery",
+        "link": "https://drive.google.com/open?id=1iqVeaE6dJRMWKt7Gsf9sOB7_2HZy48i6"
     },
     {
 
-        "name": "Harshit Raghuvanshi",
-        "project": "MIT Linux",
-        "mentor": "Chinmay Nivsarkar",
-        "link": "https://docs.google.com/document/d/1i7rDEbEaGW6Anq-1DdkMm_OfNcfx-Udb7cI4beLvMLQ/edit?usp=sharing"
+        "name": "Rakshit Naidu",
+        "project": "Driving Cars in games using opencv",
+        "mentor": "Karan Mannan",
+        "link": "https://drive.google.com/open?id=1JMw-t19P3IRJe306VzVcK6ERE4sep5Rk"
     },
     {
 
-        "name": "Yashika Badaya",
-        "project": "Braille OCR using Python",
-        "mentor": "Sudarshan Sundar",
-        "link": "https://drive.google.com/file/d/0B6RSEI9ImyRMVlRPOFB2aXJqX1E/view?usp=sharing"
-    },
-    {
-
-        "name": "Ayushi Raj Bhatt",
-        "project": "Tesseract OCR",
-        "mentor": "Sukriti Paul",
-        "link": "https://docs.google.com/document/d/1CCIEFR-H_zCkk0slsYU1TEY9UCj5lvJQfIh5fCTvwkA/edit?usp=sharing"
-    },
-    {
-
-        "name": "Nitanshu Vashistha",
-        "project": "CLI for ReadTheDocs",
-        "mentor": "Mehul Gupta",
-        "link": "https://docs.google.com/document/d/1JTl962wgnykGePGpKrmfWpdedERM1SE2iAPHeh36zOM/edit?usp=sharing"
-    },
-    {
-
-        "name": "Swati Kanwal",
-        "project": "Chrome Extension For Blocking Unwanted Content",
-        "mentor": "Raamish Malik and Ishan Handa",
-        "link": "https://docs.google.com/document/d/1pZwUJqnu9MTX3fQxQ0jaXdWGicNFvPE3cOnlinJrGiU/edit"
-    },
-    {
-
-        "name": "Manya Gupta",
-        "project": "Location based silent app",
-        "mentor": "Saketh Kaparthi",
-        "link": "https://drive.google.com/file/d/0Bzp-tN5uQGbbTmh1empWX2hzbU0/view?usp=sharing"
-    },
-    {
-
-        "name": "Vishnu Asutosh Dasu",
-        "project": "Simple Natural Processing Techniques",
-        "mentor": "Yash Kumar Lal",
-        "link": "https://docs.google.com/document/d/1e-pGr24MZl8IsilbZySsm8UfBAANAxhUmQFtFEH541g/edit#"
-    },
-    {
-
-        "name": "Sameer Soin",
-        "project": "Remote Screen Control(Android)",
-        "mentor": "Siddharth Kothiyal",
-        "link": "https://drive.google.com/open?id=0B2bHKb5jBwYvSHFNUG0wQzlMVEU"
-    },
-    {
-
-        "name": "Akash Kalra",
-        "project": "Money Genie",
-        "mentor": "Mayank Bansal",
-        "link": "https://docs.google.com/document/d/1p7BSP2WK96E702OltZUNJ3jhw00OKcrinOIPIaMgjVo/edit?usp=sharing"
-    },
-    {
-
-        "name": "Ayush Malviya",
-        "project": "Physics Simulator",
-        "mentor": "Siddharth Kothiyal",
-        "link": "https://drive.google.com/file/d/0B58WlDabcUEZWkg1OUE3YzhnNW8/view?usp=sharing"
+        "name": "Devang Mukherjee",
+        "project": "Smart Fridge Applications",
+        "mentor": "Vishwa Kalyanaraman",
+        "link": "https://drive.google.com/open?id=1Bv68rWDUkEm49vD9WlFGrbdk3uEwXqsb"
     }
     ];
 
