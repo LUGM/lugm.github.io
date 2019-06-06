@@ -442,7 +442,15 @@
         "project": "Smart Fridge Applications",
         "mentor": "Vishwa Kalyanaraman",
         "link": "https://drive.google.com/open?id=1Bv68rWDUkEm49vD9WlFGrbdk3uEwXqsb"
+    },
+    {
+
+        "name": "Tarushi Sharma",
+        "project": "Early dyslexia detection in kids",
+        "mentor": "Vishwa Kalyanaraman",
+        "link": "https://drive.google.com/open?id=1QN6AaekMGy4YRwgDq0Bczw6RIMW29jCK"
     }
+
     ];
 
 
