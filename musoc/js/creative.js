@@ -406,7 +406,7 @@
         "name": "Pratyush Kerhalkar",
         "project": "Toxic Comment Classification",
         "mentor": "Somansh",
-        "link": "https://drive.google.com/open?id=1RwSFRPTRUJCuR_R_NzsaWE3mtqN0LKS5"
+        "link": "https://drive.google.com/open?id=1JrtEG93NdaA_gEEM5KUpoqJKqlyeLdVQ"
     },
     {
 
